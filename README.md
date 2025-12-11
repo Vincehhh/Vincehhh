@@ -1,7 +1,7 @@
 <h1 align="left"> Hello everyone, I'm Vincehhh <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px"></h2>
 
 ### ⚙️ &nbsp;Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,redux,cpp,docker,aws,postman,jest,git,postgres,mui)](https://github.com/pipaliyajaydip)
+[![My Skills](https://skillicons.dev/icons?i=html,css,,docker,git)](https://github.com/pipaliyajaydip)
 
 
 ### ⚙️ &nbsp;GitHub Analytics
@@ -20,11 +20,10 @@
   </tr>
 </table>
 
-(https://github-readme-activity-graph.vercel.app/graph?username=Vincehhh&theme=gotham)](https://github.com/Vincehhh)
+[![Vincehhh github activity grap](https://github-readme-activity-graph.vercel.app/graph?username=pipaliyajaydip&theme=gotham)](https://github.com/pipaliyajaydip)
 
 ### ⚙️ &nbsp;Connect with Me
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/pipaliyajaydip)
-[![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/Jaydip_Pipaliya)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/vincent-deschamps-1a1a10356)
 
 <div align="center">
   <a href="https://github.com/Vincehhh">
