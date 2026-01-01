@@ -18,7 +18,7 @@
 
 [![Vincehhh github activity grap](https://github-readme-activity-graph.vercel.app/graph?username=Vincehhh&theme=gotham)](https://github.com/Vincehhh)
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=6401381" style='border:none;'></iframe>
+![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Vincehhh.png)
 
 ### ⚙️ &nbsp;Connect with Me
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/vincent-deschamps-1a1a10356)
